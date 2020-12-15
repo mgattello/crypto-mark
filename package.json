@@ -1,0 +1,23 @@
+{
+  "name": "crypto-mark",
+  "version": "1.0.0",
+  "description": "Experiment with the Blockchain technology",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgattello/crypto-mark.git"
+  },
+  "author": "Marco Gattello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgattello/crypto-mark/issues"
+  },
+  "homepage": "https://github.com/mgattello/crypto-mark#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
